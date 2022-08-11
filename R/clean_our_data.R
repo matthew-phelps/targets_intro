@@ -9,5 +9,5 @@ clean_our_data <- function(our_data_raw) {
 
 
 clean_data_helper_function <- function(x) {
-  x + 1
+  x + 2
 }
